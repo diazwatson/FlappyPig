@@ -1,3 +1,3 @@
-# FartyPig
+# FlappyPig
 
 Developed with Unreal Engine 5
